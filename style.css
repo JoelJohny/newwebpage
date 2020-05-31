@@ -1,0 +1,109 @@
+li{
+	display: inline-block;
+}
+a{
+	text-decoration-style: none;
+}
+ul{
+	list-style-type: none;
+	margin-top: 10px;
+}
+ul li .ne{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	transition: ease .5s;
+	
+}
+
+.img-fluid{
+	box-shadow: 0 20px 70px -20px rgba(0, 0, 0, 0.34);
+	
+}
+.a{
+	color: grey;
+}
+.a:hover{
+	color: royalblue;
+}
+.b{
+	color: grey;
+}
+.b:hover{
+	color: orange;
+}
+.c{
+	color: gray;
+}
+.c:hover{
+	color: red;
+}
+
+ul li .ne:hover{
+	color: black;
+	background-color: #fff;
+	text-decoration: none;
+}
+.lo{
+	text-decoration: none;
+	color: #fff;
+	font-family: 'Rock Salt', cursive;
+}
+.lo:hover{
+	text-decoration: none;
+	color:#fff;
+	
+}
+.add{
+	text-align: center;
+}
+.n{
+	box-shadow: 0 20px 70px -20px rgba(0, 0, 0, 0.34);
+	border: 2px solid black;
+}
+.card{
+	height: 377px;
+	border-bottom: 2px solid rgb(8, 197, 197);
+	box-shadow: 0 1rem 3rem rgba(0,0,0,.5);
+	border-radius: 15px;
+	animation: ease-in;
+}
+.b{
+	border-bottom-color:rgb(255, 238, 0) ;
+}
+.c{
+	border-bottom-color:rgb(245, 2, 245);
+}
+.d{
+	border-bottom-color:red ;
+}
+.e{
+	border-bottom-color:springgreen;
+}
+.f{
+	border-bottom-color:indigo ;
+}
+.card-img-top{
+	border-radius: 14px;
+}	
+.he{
+	background: linear-gradient(135deg,rgb(248, 247, 247) 0%,rgb(2, 2, 2) 100%);
+}
+ul li .ne:active{
+	color: red;
+}
+.r{
+	padding-top: 6em;
+	padding-bottom: 1.5rem;
+	padding-left: 1.5rem;
+	padding-right: 1.5rem;
+}
+.or{
+	color: orangered;
+}
+.bl{
+	color: blue;
+}
+.card-img-top{
+	height: 222px;
+}
